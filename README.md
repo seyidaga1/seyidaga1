@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Seyidaga</h1>
+ga<h1 align="center">Hi 👋, I'm Seyidaga</h1>
 <h3 align="center">PASSIONATE BACKEND DEVELOPER </h3>
 
 ---
@@ -10,7 +10,7 @@
 </p>
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elnurbda&label=Profile%20views&color=0e75b6&style=flat" alt="elnurbda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=seyidaga1&label=Profile%20views&color=0e75b6&style=flat" alt="elnurbda" /> </p>
 
 ### 📊 GitHub Stats:
 <div align="center">
