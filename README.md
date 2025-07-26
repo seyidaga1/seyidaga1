@@ -21,7 +21,7 @@
 ---
 
 ### 🏆 Achievements:
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Seyidaga&theme=darkhub&column=7)
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=seyidaga1&theme=darkhub&column=7)
 
 ---
 
