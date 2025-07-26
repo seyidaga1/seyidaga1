@@ -26,6 +26,6 @@
 ---
 
 ### 🔗 Links:
-- 🌐 [Portfolio](https://yourwebsite.com)
-- 📄 [LinkedIn](https://linkedin.com/in/yourusername)
-- 📧 Email: you@example.com
+- 🌐 [Portfolio](-)
+- 📄 [LinkedIn]([https://linkedin.com/in/seyidaga](https://www.linkedin.com/in/seyidaga-kazimli-56b9b42b7/))
+- 📧 Email: seyidaga221@gmail.com
