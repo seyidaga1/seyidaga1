@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Seyidaga</h1>
+<h3 align="center">A passionate developer and cybersecurity enthusiast</h3>
 
-<!--
-**seyidaga1/seyidaga1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nodejs,postgres,mongodb,linux,docker,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Seyidaga&show_icons=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seyidaga&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seyidaga&layout=compact&theme=dark" />
+</div>
+
+---
+
+### 🏆 Achievements:
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Seyidaga&theme=darkhub&column=7)
+
+---
+
+### 🔗 Links:
+- 🌐 [Portfolio](https://yourwebsite.com)
+- 📄 [LinkedIn](https://linkedin.com/in/yourusername)
+- 📧 Email: you@example.com
