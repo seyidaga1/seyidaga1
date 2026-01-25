@@ -6,7 +6,7 @@
 ### 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,django,html,css,postgres,linux,docker,github,vscode,c#" />
+  <img src="https://skillicons.dev/icons?i=py,django,html,css,js,postgres,linux,docker,git,github,vscode,cs,dotnet,postman,visualstudio," />
 </p>
 
 ---
