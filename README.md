@@ -20,7 +20,11 @@
 </div>
 
 ---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seyidaga1&show_icons=true&locale=en&layout=compact" alt="seyidaga1" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seyidaga1&show_icons=true&locale=en" alt="seyidaga1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seyidaga1&" alt="seyidaga1" /></p>
 ### 🏆 Achievements:
 ![GitHub trophies](https://github-profile-trophy.vercel.app/?username=seyidaga1&theme=darkhub&column=7)
 
