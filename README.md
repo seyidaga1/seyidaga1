@@ -13,11 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seyidaga1&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 ### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyidaga1&layout=compact&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=seyidaga1&show_icons=true&theme=dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seyidaga1&theme=dark" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=seyidaga1&theme=dark&date_format=n%2Fj%5B%2FY%5D&card_width=830)](https://git.io/streak-stats)
 
 
 ---
