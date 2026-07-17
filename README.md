@@ -11,7 +11,7 @@
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seyidaga1&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
-
+[![wakatime](https://wakatime.com/badge/user/056c23b0-d99a-4367-88b4-09e2f1c88ff9.svg)](https://wakatime.com/@056c23b0-d99a-4367-88b4-09e2f1c88ff9)
 ### 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=seyidaga1&theme=dark&date_format=n%2Fj%5B%2FY%5D&card_width=830)](https://git.io/streak-stats)
 
